@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbYazılımSınamaModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblProcess">
+    <Key>
+      <PropertyRef Name="processID" />
+    </Key>
+    <Property Name="processID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="processName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="projectID" Type="Int32" />
+    <Property Name="processTypeID" Type="Int32" />
+    <Property Name="startDate" Type="DateTime" Precision="0" />
+    <Property Name="finishDate" Type="DateTime" Precision="0" />
+    <Property Name="completeRate" Type="Int32" />
+    <Property Name="detail" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="priority" Type="Int32" />
+    <Property Name="createUserID" Type="Int32" />
+    <Property Name="description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="note" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="userID" Type="Int32" />
+    <Property Name="duration" Type="Int32" />
+    <NavigationProperty Name="tblProcessType" Relationship="Self.FK_tblProcess_tblProcessType" FromRole="tblProcess" ToRole="tblProcessType" />
+    <NavigationProperty Name="tblUsers" Relationship="Self.FK_tblProcess_tblUsers" FromRole="tblProcess" ToRole="tblUsers" />
+    <NavigationProperty Name="tblUsers1" Relationship="Self.FK_tblProcess_tblUsers1" FromRole="tblProcess" ToRole="tblUsers" />
+    <NavigationProperty Name="tblUserProcess" Relationship="Self.FK_tblUserProcess_tblProcess" FromRole="tblProcess" ToRole="tblUserProcess" />
+    <NavigationProperty Name="tblWorkFlow" Relationship="Self.FK_tblWorkFlow_tblProcess" FromRole="tblProcess" ToRole="tblWorkFlow" />
+  </EntityType>
+  <EntityType Name="tblProcessType">
+    <Key>
+      <PropertyRef Name="processTypeID" />
+    </Key>
+    <Property Name="processTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="processTypeName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblProcess" Relationship="Self.FK_tblProcess_tblProcessType" FromRole="tblProcessType" ToRole="tblProcess" />
+  </EntityType>
+  <EntityType Name="tblProject">
+    <Key>
+      <PropertyRef Name="projectID" />
+    </Key>
+    <Property Name="projectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="projectName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="startDate" Type="DateTime" Precision="0" />
+    <Property Name="finishDate" Type="DateTime" Precision="0" />
+    <Property Name="budget" Type="Double" />
+    <Property Name="isActive" Type="Boolean" />
+    <Property Name="createID" Type="Int32" />
+    <Property Name="projectManagerID" Type="Int32" />
+    <NavigationProperty Name="tblUsers" Relationship="Self.FK_tblProject_tblUsers" FromRole="tblProject" ToRole="tblUsers" />
+    <NavigationProperty Name="tblUsers1" Relationship="Self.FK_tblProject_tblUsers1" FromRole="tblProject" ToRole="tblUsers" />
+    <NavigationProperty Name="tblUserProject" Relationship="Self.FK_tblUserProject_tblProject" FromRole="tblProject" ToRole="tblUserProject" />
+  </EntityType>
+  <EntityType Name="tblSecurityQuestions">
+    <Key>
+      <PropertyRef Name="questionID" />
+    </Key>
+    <Property Name="questionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="question" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblUserLog">
+    <Key>
+      <PropertyRef Name="userLogID" />
+    </Key>
+    <Property Name="userLogID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userLogName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="userID" Type="Int32" />
+    <Property Name="logDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="tblUsers" Relationship="Self.FK_tblUserLog_tblUsers" FromRole="tblUserLog" ToRole="tblUsers" />
+  </EntityType>
+  <EntityType Name="tblUserProcess">
+    <Key>
+      <PropertyRef Name="userProcessID" />
+    </Key>
+    <Property Name="userProcessID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="processID" Type="Int32" />
+    <Property Name="userRolesID" Type="Int32" />
+    <NavigationProperty Name="tblProcess" Relationship="Self.FK_tblUserProcess_tblProcess" FromRole="tblUserProcess" ToRole="tblProcess" />
+    <NavigationProperty Name="tblUserRoles" Relationship="Self.FK_tblUserProcess_tblUserRoles" FromRole="tblUserProcess" ToRole="tblUserRoles" />
+  </EntityType>
+  <EntityType Name="tblUserProject">
+    <Key>
+      <PropertyRef Name="userProjectID" />
+    </Key>
+    <Property Name="userProjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userRolesID" Type="Int32" />
+    <Property Name="projectID" Type="Int32" />
+    <NavigationProperty Name="tblProject" Relationship="Self.FK_tblUserProject_tblProject" FromRole="tblUserProject" ToRole="tblProject" />
+    <NavigationProperty Name="tblUserRoles" Relationship="Self.FK_tblUserProject_tblUserRoles" FromRole="tblUserProject" ToRole="tblUserRoles" />
+  </EntityType>
+  <EntityType Name="tblUserRoles">
+    <Key>
+      <PropertyRef Name="userRolesID" />
+    </Key>
+    <Property Name="userRolesID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="roleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblUserProcess" Relationship="Self.FK_tblUserProcess_tblUserRoles" FromRole="tblUserRoles" ToRole="tblUserProcess" />
+    <NavigationProperty Name="tblUserProject" Relationship="Self.FK_tblUserProject_tblUserRoles" FromRole="tblUserRoles" ToRole="tblUserProject" />
+  </EntityType>
+  <EntityType Name="tblUsers">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="surname" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="userRoleID" Type="Int32" />
+    <Property Name="userCreateDate" Type="DateTime" Precision="0" />
+    <Property Name="questionID" Type="Int32" />
+    <Property Name="answer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblProcess" Relationship="Self.FK_tblProcess_tblUsers" FromRole="tblUsers" ToRole="tblProcess" />
+    <NavigationProperty Name="tblProcess1" Relationship="Self.FK_tblProcess_tblUsers1" FromRole="tblUsers" ToRole="tblProcess" />
+    <NavigationProperty Name="tblProject" Relationship="Self.FK_tblProject_tblUsers" FromRole="tblUsers" ToRole="tblProject" />
+    <NavigationProperty Name="tblProject1" Relationship="Self.FK_tblProject_tblUsers1" FromRole="tblUsers" ToRole="tblProject" />
+    <NavigationProperty Name="tblUserLog" Relationship="Self.FK_tblUserLog_tblUsers" FromRole="tblUsers" ToRole="tblUserLog" />
+  </EntityType>
+  <EntityType Name="tblWorkFlow">
+    <Key>
+      <PropertyRef Name="workFlowID" />
+    </Key>
+    <Property Name="workFlowID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="processID" Type="Int32" />
+    <Property Name="workFlowName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="startDate" Type="DateTime" Precision="0" />
+    <Property Name="finishDate" Type="DateTime" Precision="0" />
+    <Property Name="userID" Type="Int32" />
+    <Property Name="completeRate" Type="Int32" />
+    <NavigationProperty Name="tblProcess" Relationship="Self.FK_tblWorkFlow_tblProcess" FromRole="tblWorkFlow" ToRole="tblProcess" />
+  </EntityType>
+  <Association Name="FK_tblProcess_tblProcessType">
+    <End Role="tblProcessType" Type="Self.tblProcessType" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblProcess" Type="Self.tblProcess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProcessType">
+        <PropertyRef Name="processTypeID" />
+      </Principal>
+      <Dependent Role="tblProcess">
+        <PropertyRef Name="processTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblProcess_tblUsers">
+    <End Role="tblUsers" Type="Self.tblUsers" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblProcess" Type="Self.tblProcess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUsers">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="tblProcess">
+        <PropertyRef Name="createUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblProcess_tblUsers1">
+    <End Role="tblUsers" Type="Self.tblUsers" Multiplicity="0..1" />
+    <End Role="tblProcess" Type="Self.tblProcess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUsers">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="tblProcess">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserProcess_tblProcess">
+    <End Role="tblProcess" Type="Self.tblProcess" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblUserProcess" Type="Self.tblUserProcess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProcess">
+        <PropertyRef Name="processID" />
+      </Principal>
+      <Dependent Role="tblUserProcess">
+        <PropertyRef Name="processID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblWorkFlow_tblProcess">
+    <End Role="tblProcess" Type="Self.tblProcess" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblWorkFlow" Type="Self.tblWorkFlow" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProcess">
+        <PropertyRef Name="processID" />
+      </Principal>
+      <Dependent Role="tblWorkFlow">
+        <PropertyRef Name="processID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblProject_tblUsers">
+    <End Role="tblUsers" Type="Self.tblUsers" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblProject" Type="Self.tblProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUsers">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="tblProject">
+        <PropertyRef Name="createID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblProject_tblUsers1">
+    <End Role="tblUsers" Type="Self.tblUsers" Multiplicity="0..1" />
+    <End Role="tblProject" Type="Self.tblProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUsers">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="tblProject">
+        <PropertyRef Name="projectManagerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserProject_tblProject">
+    <End Role="tblProject" Type="Self.tblProject" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblUserProject" Type="Self.tblUserProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProject">
+        <PropertyRef Name="projectID" />
+      </Principal>
+      <Dependent Role="tblUserProject">
+        <PropertyRef Name="projectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserLog_tblUsers">
+    <End Role="tblUsers" Type="Self.tblUsers" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblUserLog" Type="Self.tblUserLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUsers">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="tblUserLog">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserProcess_tblUserRoles">
+    <End Role="tblUserRoles" Type="Self.tblUserRoles" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblUserProcess" Type="Self.tblUserProcess" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUserRoles">
+        <PropertyRef Name="userRolesID" />
+      </Principal>
+      <Dependent Role="tblUserProcess">
+        <PropertyRef Name="userRolesID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserProject_tblUserRoles">
+    <End Role="tblUserRoles" Type="Self.tblUserRoles" Multiplicity="0..1" />
+    <End Role="tblUserProject" Type="Self.tblUserProject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUserRoles">
+        <PropertyRef Name="userRolesID" />
+      </Principal>
+      <Dependent Role="tblUserProject">
+        <PropertyRef Name="userRolesID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dbYazılımSınamaEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblProcess" EntityType="Self.tblProcess" />
+    <EntitySet Name="tblProcessType" EntityType="Self.tblProcessType" />
+    <EntitySet Name="tblProject" EntityType="Self.tblProject" />
+    <EntitySet Name="tblSecurityQuestions" EntityType="Self.tblSecurityQuestions" />
+    <EntitySet Name="tblUserLog" EntityType="Self.tblUserLog" />
+    <EntitySet Name="tblUserProcess" EntityType="Self.tblUserProcess" />
+    <EntitySet Name="tblUserProject" EntityType="Self.tblUserProject" />
+    <EntitySet Name="tblUserRoles" EntityType="Self.tblUserRoles" />
+    <EntitySet Name="tblUsers" EntityType="Self.tblUsers" />
+    <EntitySet Name="tblWorkFlow" EntityType="Self.tblWorkFlow" />
+    <AssociationSet Name="FK_tblProcess_tblProcessType" Association="Self.FK_tblProcess_tblProcessType">
+      <End Role="tblProcessType" EntitySet="tblProcessType" />
+      <End Role="tblProcess" EntitySet="tblProcess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblProcess_tblUsers" Association="Self.FK_tblProcess_tblUsers">
+      <End Role="tblUsers" EntitySet="tblUsers" />
+      <End Role="tblProcess" EntitySet="tblProcess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblProcess_tblUsers1" Association="Self.FK_tblProcess_tblUsers1">
+      <End Role="tblUsers" EntitySet="tblUsers" />
+      <End Role="tblProcess" EntitySet="tblProcess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserProcess_tblProcess" Association="Self.FK_tblUserProcess_tblProcess">
+      <End Role="tblProcess" EntitySet="tblProcess" />
+      <End Role="tblUserProcess" EntitySet="tblUserProcess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblWorkFlow_tblProcess" Association="Self.FK_tblWorkFlow_tblProcess">
+      <End Role="tblProcess" EntitySet="tblProcess" />
+      <End Role="tblWorkFlow" EntitySet="tblWorkFlow" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblProject_tblUsers" Association="Self.FK_tblProject_tblUsers">
+      <End Role="tblUsers" EntitySet="tblUsers" />
+      <End Role="tblProject" EntitySet="tblProject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblProject_tblUsers1" Association="Self.FK_tblProject_tblUsers1">
+      <End Role="tblUsers" EntitySet="tblUsers" />
+      <End Role="tblProject" EntitySet="tblProject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserProject_tblProject" Association="Self.FK_tblUserProject_tblProject">
+      <End Role="tblProject" EntitySet="tblProject" />
+      <End Role="tblUserProject" EntitySet="tblUserProject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserLog_tblUsers" Association="Self.FK_tblUserLog_tblUsers">
+      <End Role="tblUsers" EntitySet="tblUsers" />
+      <End Role="tblUserLog" EntitySet="tblUserLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserProcess_tblUserRoles" Association="Self.FK_tblUserProcess_tblUserRoles">
+      <End Role="tblUserRoles" EntitySet="tblUserRoles" />
+      <End Role="tblUserProcess" EntitySet="tblUserProcess" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserProject_tblUserRoles" Association="Self.FK_tblUserProject_tblUserRoles">
+      <End Role="tblUserRoles" EntitySet="tblUserRoles" />
+      <End Role="tblUserProject" EntitySet="tblUserProject" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

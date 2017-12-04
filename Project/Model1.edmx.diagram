@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a4fcd2257c8b429295c3dc62098ab644" Name="Diagram1">
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblProcess" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblProcessType" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblProject" Width="1.5" PointX="3" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblSecurityQuestions" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblUserLog" Width="1.5" PointX="3" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblUserProcess" Width="1.5" PointX="5.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblUserProject" Width="1.5" PointX="5.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblUserRoles" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblUsers" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbYazılımSınamaModel.tblWorkFlow" Width="1.5" PointX="5.25" PointY="6.875" IsExpanded="true" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblProcess_tblProcessType" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblProcess_tblUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblProcess_tblUsers1" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblUserProcess_tblProcess" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblWorkFlow_tblProcess" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblProject_tblUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblProject_tblUsers1" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblUserProject_tblProject" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblUserLog_tblUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblUserProcess_tblUserRoles" ManuallyRouted="false" />
+        <AssociationConnector Association="dbYazılımSınamaModel.FK_tblUserProject_tblUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

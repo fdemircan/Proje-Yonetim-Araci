@@ -1,0 +1,202 @@
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.pdb
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form1.resources
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form2.resources
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form3.resources
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.pdb
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.dll
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe.config
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.exe
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.pdb
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.pdb
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form1.resources
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form2.resources
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form3.resources
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+\\Mac\Home\Desktop\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.pdb
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.pdb
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.dll
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.xml
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form1.resources
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form2.resources
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Form3.resources
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\DamLa\Desktop\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+E:\Project.-son\ProjectSon\Project\bin\Debug\Project.exe.config
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.exe
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.pdb
+E:\Project.-son\ProjectSon\Project\bin\Debug\Project.exe
+E:\Project.-son\ProjectSon\Project\bin\Debug\Project.pdb
+E:\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.dll
+E:\Project.-son\ProjectSon\Project\bin\Debug\EntityFramework.xml
+E:\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.Form1.resources
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.Form2.resources
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.Form3.resources
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.Form4.resources
+E:\Project.-son\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Project.-son\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\ProjectSon\Project\bin\Debug\Project.exe.config
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.exe
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.pdb
+\\Mac\Home\Desktop\ProjectSon\Project\bin\Debug\Project.exe
+\\Mac\Home\Desktop\ProjectSon\Project\bin\Debug\Project.pdb
+\\Mac\Home\Desktop\ProjectSon\Project\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\ProjectSon\Project\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.Form1.resources
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.Form2.resources
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.Form3.resources
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.Form4.resources
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+\\Mac\Home\Desktop\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.pdb
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.pdb
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\EntityFramework.dll
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\EntityFramework.xml
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form1.resources
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form3.resources
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form4.resources
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+C:\Users\ayşe ferruha\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form2.resources
+D:\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe.config
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.exe
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.pdb
+D:\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe
+D:\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.pdb
+D:\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\EntityFramework.dll
+D:\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\EntityFramework.xml
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form1.resources
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form2.resources
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form3.resources
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form4.resources
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+D:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.pdb
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.pdb
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\EntityFramework.dll
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\EntityFramework.xml
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form1.resources
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form2.resources
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form3.resources
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Form4.resources
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\DamLa\Desktop\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+W:\ProjectSon-VOL23823844\ProjectSon\Project\bin\Debug\Project.exe.config
+W:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.exe
+W:\ProjectSon-VOL23823844\ProjectSon\Project\obj\Debug\Project.pdb
+C:\Users\Deniiz\Desktop\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\Deniiz\Desktop\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\Deniiz\Desktop\ProjectSon\Project\obj\Debug\Project.pdb
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form1.resources
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form2.resources
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form3.resources
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form4.resources
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.pdb
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.dll
+F:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\bin\Debug\Project.exe
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\bin\Debug\Project.pdb
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.Form1.resources
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.Form2.resources
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.Form3.resources
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.Form4.resources
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+\\Mac\Home\Desktop\SON!!!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.pdb
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.dll
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.xml
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form1.resources
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form2.resources
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form3.resources
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form4.resources
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\DamLa\Desktop\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.pdb
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.dll
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.xml
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form1.resources
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form2.resources
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form3.resources
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form4.resources
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+E:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+W:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+W:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+W:\DENİZ\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.pdb
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form1.resources
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form2.resources
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form3.resources
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form4.resources
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+\\Mac\Home\Desktop\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe.config
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.exe
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.pdb
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.exe
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\Project.pdb
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.dll
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\bin\Debug\EntityFramework.xml
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csprojResolveAssemblyReference.cache
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form1.resources
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form2.resources
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form3.resources
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Form4.resources
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Fd\CBÜ Yazılım Mühendisliği\3.SINIF\Yazılım Testi\Yazılım Sınama Proje-Son\!!!!!!!EN SON!!!!!!\ProjectSon\Project\obj\Debug\ProjectSon.csproj.GenerateResource.Cache

@@ -1,0 +1,23 @@
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Form1.resources
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\ayşe ferruha\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\DamLa\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\DamLa\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\DamLa\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\DamLa\Desktop\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\bin\Debug\Project.exe.config
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.exe
+C:\Users\ayşe ferruha\Desktop\Project.-son\ProjectSon\Project\obj\Debug\Project.pdb
